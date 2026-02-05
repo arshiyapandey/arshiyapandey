@@ -24,4 +24,9 @@ Heyy! I’m a Data Science student with an interest in building interactive proj
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arshiyapandey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arshiyapandey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiyapandey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
